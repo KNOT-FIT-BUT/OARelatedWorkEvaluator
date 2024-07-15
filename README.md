@@ -1,6 +1,10 @@
 # Evaluation
 This folder contains evaluation scripts for experiments on OARelatedWork dataset.
 
+## Install
+
+    pip install oarelatedworkevaluator
+
 ## Usage
 
 It can be run as:
