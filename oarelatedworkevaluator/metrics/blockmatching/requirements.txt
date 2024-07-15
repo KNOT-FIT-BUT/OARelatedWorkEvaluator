@@ -1,0 +1,5 @@
+evaluate~=0.2.2
+datasets~=2.5.1
+munkres~=1.1.4
+numpy~=1.24.1
+tqdm~=4.64.0
